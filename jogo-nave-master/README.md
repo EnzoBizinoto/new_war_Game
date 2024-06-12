@@ -1,2 +1,1 @@
-# jogo-nave
-Jogo desenvolvido com bases HTML5, JavaScript, Jquery e CSS3
+# Game developed with HTML5, JavaScript, jQuery, and CSS3 foundations
